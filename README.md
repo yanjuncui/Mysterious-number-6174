@@ -1,4 +1,4 @@
-# hello-world
+# Mysterious number 6174
 # Question description:
 # https://plus.maths.org/content/mysterious-number-6174
 # Kaprekar's operation.
